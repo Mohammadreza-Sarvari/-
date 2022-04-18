@@ -1,3 +1,3 @@
 # online_shop
-After implementation, install noed modules.
-Execute the npm run resever command.
+Execute the npm install command.
+Execute the npm run server command.
