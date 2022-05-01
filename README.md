@@ -1,4 +1,4 @@
-# online_shop1
+# Online_Shop1
 
 # npm i
 To install dependencies
