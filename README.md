@@ -1,4 +1,5 @@
 # online_shop1
 
-npm i
-npm run server
+# npm i
+
+#npm run server
